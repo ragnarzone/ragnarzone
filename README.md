@@ -1,6 +1,6 @@
 ### Hi! I'm Dmitrii :sunglasses:
 ---
-#### :earth_americas:Currently I live and study in Hungary at the University of Debrecen on Mechanical Engineering MSc course
+#### :earth_americas: Currently I live and study in Hungary at the University of Debrecen on Mechanical Engineering MSc course
 #### :robot: My interest is to run bare metal things to do the job they ment to do
 ---
 
@@ -17,3 +17,12 @@ My hard skills are:
 * Linux and basics of Bash scripting
 * Basics of HTML and CSS
 * Git workflow
+---
+
+📨 Here are my contacts:
+| Type          | Value                                                      |
+| ---           | ---                                                        |
+| E-mail        | ragnarzone@gmail.com                                       |
+| Telephone     | + 36 202 493 389                                           |
+| LinkedIn      | [link to LinkedIn](https://www.linkedin.com/in/ragnarzone/)|
+| Facebook      | [link to Facebook](https://www.facebook.com/ragnarzone)    |
