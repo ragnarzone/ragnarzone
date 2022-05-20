@@ -8,7 +8,7 @@
 * :green_book: I like math, engineering and programming
 * :hammer: Every day I learn something new or improve that I already know
 * :computer: I have 3 years of steady experience in learning computer science things and programming in particular
-* :guitar: Also I have hobbi which is guitar playing, sometimes I make videos on that and post it on YouTube
+* :guitar: Also I have hobby which is guitar playing, sometimes I make videos on that and post it on YouTube
 ---
 
 My hard skills are: 
