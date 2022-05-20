@@ -14,9 +14,8 @@ My hard skills are:
 * C/C++
 * Java and Spring core 
 * Python 
-* Linux and basics of Bash scripting
+* Linux and Bash scripting
 * Basics of HTML and CSS
-* Git workflow
 ---
 
 📨 Here are my contacts:
