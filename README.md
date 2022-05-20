@@ -19,7 +19,7 @@ My hard skills are:
 * Basics of HTML and CSS
 ---
 
-📨 Here are my contacts:
+Here are my contacts:
 | Type          | Value                                                                                   |
 | ---           | ---                                                                                     |
 | E-mail        | ragnarzone@gmail.com                                                                    |
