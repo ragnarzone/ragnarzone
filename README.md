@@ -1,7 +1,7 @@
 ### Hi! I'm Dmitrii :sunglasses:
 ---
 #### :earth_americas: Currently I live and study in Hungary at the University of Debrecen on Mechanical Engineering MSc course
-#### :robot: My interest is to run bare metal things to do the job they ment to do
+#### :robot: My interest is to run bare metal things to do the job they meant to do
 ---
 
 * :green_book: I like math, engineering and programming
