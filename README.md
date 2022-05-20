@@ -19,9 +19,10 @@ My hard skills are:
 ---
 
 📨 Here are my contacts:
-| Type          | Value                                                      |
-| ---           | ---                                                        |
-| E-mail        | ragnarzone@gmail.com                                       |
-| Telephone     | + 36 202 493 389                                           |
-| LinkedIn      | [link to LinkedIn](https://www.linkedin.com/in/ragnarzone/)|
-| Facebook      | [link to Facebook](https://www.facebook.com/ragnarzone)    |
+| Type          | Value                                                                                   |
+| ---           | ---                                                                                     |
+| E-mail        | ragnarzone@gmail.com                                                                    |
+| Telephone     | + 36 202 493 389                                                                        |
+| LinkedIn      | [link on LinkedIn](https://www.linkedin.com/in/ragnarzone/)                             |
+| Facebook      | [link on Facebook](https://www.facebook.com/ragnarzone)                                 |
+| YouTube       | [link on YouTube](https://www.youtube.com/channel/UCQeYR8MCtX0g-qeoytu6a-g/featured)    |
