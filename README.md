@@ -1,4 +1,4 @@
-![Banner](https://scontent.fbud7-3.fna.fbcdn.net/v/t39.30808-6/281500072_972777983435473_9006170885923954667_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=WGNLGR43RQMAX8EVHpS&_nc_ht=scontent.fbud7-3.fna&oh=00_AT8T_WBUDKyr1pROWg4HoFuA8lC5uP43ScDi2dTpApKmZQ&oe=628D297C)
+![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner.png)
 ### Hi! I'm Dmitrii :sunglasses:
 ---
 #### :earth_americas: Currently I live and study in Hungary at the University of Debrecen on Mechanical Engineering MSc course
