@@ -11,12 +11,16 @@
 * :guitar: Also I have hobby which is guitar playing, sometimes I make videos on that and post it on YouTube
 ---
 
-My hard skills are: 
-* C/C++
-* Java and Spring core 
-* Python 
+I have hands on experience with: 
+* Java
+* C/C++ 
+* Python
+* Spring framework
+* MySQL
+* Maven
+* Git
 * Linux and Bash scripting
-* Basics of HTML and CSS
+* HTML and CSS
 ---
 
 Here are my contacts:
