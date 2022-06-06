@@ -21,6 +21,7 @@ I have hands on experience with:
 * Git
 * Linux and Bash scripting
 * HTML and CSS
+* Agile and Scrum methodologies
 ---
 
 Here are my contacts:
