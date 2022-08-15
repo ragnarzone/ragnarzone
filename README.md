@@ -1,27 +1,27 @@
-![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner.png)
+![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner_new.png)
 ### Hi! I'm Dmitrii :sunglasses:
 ---
-#### :earth_americas: Currently I live and study in Hungary at the University of Debrecen on Mechanical Engineering MSc course
-#### :robot: My interest is to run bare metal things to do the job they meant to do
+#### :earth_americas: I am backend Java developer
+#### :robot: My specialization is Spring framework based development and technologies around it
 ---
 
 * :green_book: I like math, engineering and programming
-* :hammer: Every day I learn something new or improve that I already know
+* :hammer: Every day I learn something new and work on my discipline
 * :computer: I have 3 years of steady experience in learning computer science things and programming in particular
 * :guitar: Also I have hobby which is guitar playing, sometimes I make videos on that and post it on YouTube
 ---
 
 I have hands on experience with: 
 * Java
-* C/C++ 
-* Python
 * Spring framework
 * MySQL
-* Maven
-* Git
+* H2 in memory DB
+* Maven project builder
+* Git and GitHub workflow
 * Linux and Bash scripting
-* HTML and CSS
-* Agile and Scrum methodologies
+* Thymeleaf template engine, HTML and CSS
+* C/C++ programming languages
+* Python programming language
 ---
 
 Here are my contacts:
