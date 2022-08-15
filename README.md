@@ -1,7 +1,7 @@
 ![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner_new.png)
 ### Hi! I'm Dmitrii :sunglasses:
 ---
-#### :earth_americas: I am backend Java developer
+#### :earth_americas: I am a backend Java developer
 #### :robot: My specialization is Spring framework based development and technologies around it
 ---
 
