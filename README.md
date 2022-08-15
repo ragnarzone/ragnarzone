@@ -7,7 +7,7 @@
 
 * :green_book: I like math, engineering and programming
 * :hammer: Every day I learn something new and work on my discipline
-* :computer: I have 3 years of steady experience in learning computer science things and programming in particular
+* :computer: I have 3 years of steady experience in learning computer science subjects and software development in Java
 * :guitar: Also I have hobby which is guitar playing, sometimes I make videos on that and post it on YouTube
 ---
 
