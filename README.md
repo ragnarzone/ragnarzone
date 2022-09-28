@@ -21,6 +21,7 @@ I have hands on experience with:
 * Thymeleaf template engine, HTML and CSS
 * C/C++ programming languages
 * Python programming language
+* MATLAB and Simulink
 ---
 
 Here are my contacts:
