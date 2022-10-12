@@ -1,4 +1,4 @@
-![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner_new.png)
+![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner.png)
 ### Hi! I'm Dmitrii :sunglasses:
 ---
 #### :earth_americas: I am a backend Java developer and Control Systems researcher
