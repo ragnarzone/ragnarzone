@@ -1,4 +1,4 @@
-![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner.png)
+![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/HackerRank.PNG)
 # Hi there! I'm Dmitrii :sunglasses:
 ---
 #### I am a Java developer and Robotics Dynamics and Control researcher
