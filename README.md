@@ -1,13 +1,11 @@
 ![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/HackerRank.PNG)
 # Hi there! I'm Dmitrii :sunglasses:
 ---
-#### Mainly I specialized in Java development but for time being I also have hands on experience with different technologies
+#### Work on IIoT, industrial automatization and not only
 ---
 
-* :green_book: I like math, engineering and programming
-* :hammer: Every day I learn something new and work on my discipline
-* :computer: I have 3 years of steady experience in software engineering
-* :guitar: Also I have hobby which is guitar playing, sometimes I make videos on that and post it on YouTube
+* :green_book: I like math, software and hardware engineering
+* :hammer: Every day I work on my discipline and try to learn something new
 ---
 
 I have hands on experience with: 
@@ -17,8 +15,10 @@ I have hands on experience with:
 * Python
 * PHP
 * SQL
-* Linux and Bash
-* HTML and CSS
+* UNIX/Bash
+* JavaScript/JQuerry
+* HTML/CSS/Bootstrap
+* Raspberry Pi
 * MATLAB and Simulink
 ---
 
