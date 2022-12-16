@@ -1,4 +1,4 @@
-![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/HackerRank.PNG)
+![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner.png)
 # Hi there! I'm Dmitrii :sunglasses:
 ---
 #### Work on IIoT, industrial automatization and not only
