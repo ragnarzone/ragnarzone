@@ -9,8 +9,8 @@
 ---
 
 I have hands on experience with: 
-* Java
-* Spring framework
+* Java/Spring framework
+* C#/.NET framework
 * C/C++
 * Python
 * PHP
