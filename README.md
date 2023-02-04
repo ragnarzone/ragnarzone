@@ -1,11 +1,11 @@
 ![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner.png)
 # Hi there! I'm Dmitrii :sunglasses:
 ---
-#### Work on IIoT, industrial automatization and not only
+#### Work on IIoT, industrial automation and not only
 ---
 
 * :green_book: I like math, software and hardware engineering
-* :hammer: Every day I work on my discipline and try to learn something new
+* :hammer: Every day I work on my discipline and learn something new
 ---
 
 I have hands on experience with: 
