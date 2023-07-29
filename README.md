@@ -1,32 +1,18 @@
-![Banner](https://github.com/ragnarzone/ragnarzone/blob/main/banner.png)
-# Hi there! I'm Dmitrii :sunglasses:
----
-#### Work on IIoT, industrial automation and not only
----
-
-* :green_book: I like math, software and hardware engineering
-* :hammer: Every day I work on my discipline and learn something new
----
-
 I have hands on experience with: 
-* Java/Spring framework
-* C#/.NET framework
-* C/C++
-* Python
-* PHP
-* SQL
-* UNIX/Bash
-* JavaScript/JQuerry
-* HTML/CSS/Bootstrap
-* Raspberry Pi
-* MATLAB and Simulink
+* Development of web applications with Spring framework and Java
+* Development of desktop GUI applications with C#/.NET framework
+* Development of Android native applications with Java and Kotlin
+* Writing device drivers and general purpose programms with C/C++
+* Writing automation scripts with Python and Bash
+* Able to develope simple PHP based web applications
+* Able to develeope simple web frontend applications with JavaScript and libraries like Bootstrap/JQuerry/React
+* I know Linux and SQL, basics of Windows environment
+* Understand electronics and work with microcontrollers and programmable onboard computers
 ---
 
 Here are my contacts:
 | Type          | Value                                                                                   |
 | ---           | ---                                                                                     |
 | E-mail        | ragnarzone@gmail.com                                                                    |
-| Telephone     | + 36 202 493 389                                                                        |
-| LinkedIn      | [link on LinkedIn](https://www.linkedin.com/in/ragnarzone/)                             |
-| Facebook      | [link on Facebook](https://www.facebook.com/ragnarzone)                                 |
-| YouTube       | [link on YouTube](https://www.youtube.com/channel/UCQeYR8MCtX0g-qeoytu6a-g/featured)    |
+| LinkedIn      | [link to LinkedIn](https://www.linkedin.com/in/ragnarzone/)                             |
+
